@@ -47,10 +47,10 @@ Frontend Developer with 4 years of commercial experience and 5 years in software
 <table>
 	<tr>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=MishanyaZh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+			<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MishanyaZh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 		</td>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishanyaZh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+			<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MishanyaZh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 		</td>
 	</tr>
 </table>
