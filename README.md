@@ -1,18 +1,41 @@
 <h1 align="center">Hi, I'm Mykhailo Zholondkovskyi</h1>
+
 <p align="center">
-	<strong>Frontend Developer | React | Next.js | TypeScript</strong>
-</p>
-<p align="center">
-	Gorzow Wielkopolski, Poland (Open to Remote/Hybrid)
+  <strong>Frontend Engineer | React • Next.js • TypeScript</strong>
 </p>
 
-## Summary
+<p align="center">
+  Gorzow Wielkopolski, Poland • Open to Remote & Hybrid Opportunities
+</p>
 
-Frontend Developer with 4 years of commercial experience and 5 years in software development overall, including 8+ years of working in Polish environments. Specialized in building scalable EdTech solutions using React, Next.js, TypeScript, and GraphQL. Delivered high-impact features, including course generation systems, subscription management, and analytics dashboards, accelerating content creation by <strong>4x</strong> and improving development velocity by <strong>20-30%</strong> through AI-assisted development.
+---
 
-- Languages: Polish (C1), English (B2), Ukrainian (Native).
+## About Me
 
-## My Toolbox
+Frontend Engineer with 4+ years of commercial experience building scalable web applications using React, Next.js, TypeScript and GraphQL.
+
+**Languages**
+
+🇵🇱 Polish (C1)  
+🇬🇧 English (B2)  
+🇺🇦 Ukrainian (Native)  
+🇷🇺 Russian (C2)
+
+---
+
+## Current Focus
+
+- React
+- Next.js 15 & App Router
+- TypeScript
+- Scalable frontend architecture
+- Product-oriented development
+- AI-assisted engineering workflows
+- Performance optimization
+
+---
+
+## Tech Stack
 
 ### Frontend
 
@@ -34,28 +57,50 @@ Frontend Developer with 4 years of commercial experience and 5 years in software
 ![GraphQL](<https://img.shields.io/badge/GraphQL_(Apollo)-0A0A0A?style=flat-square&logo=graphql&logoColor=E10098>)
 ![WebSockets](<https://img.shields.io/badge/WebSockets_(Mercure)-0A0A0A?style=flat-square&logo=socketdotio&logoColor=FFFFFF>)
 ![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=flat-square&logo=fastapi&logoColor=00C7B7)
+![WebSockets](https://img.shields.io/badge/WebSockets-0A0A0A?style=flat-square&logo=socketdotio&logoColor=FFFFFF)
 
-### Tools & AI
+### Tools
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0A0A0A?style=flat-square&logo=githubcopilot&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F05032)
 ![Webpack](https://img.shields.io/badge/Webpack-0A0A0A?style=flat-square&logo=webpack&logoColor=8DD6F9)
-![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=flat-square&logo=figma&logoColor=F24E1E)
 
-## GitHub Metrics
+---
 
-<table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MishanyaZh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-		</td>
-		<td>
-			<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MishanyaZh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-		</td>
-	</tr>
-</table>
+## Commercial Experience
 
-## Let's Connect
+### Learning Space
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zholondkovskyi)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=EA4335)](https://mail.google.com/mail/?view=cm&to=zholondkovskyimykhailo@gmail.com)
+Large-scale EdTech platform for teachers and students.
+
+For full platform capabilities and product scope, see:
+
+Platform overview (public, no sign-up):  
+https://learningspace.app/en/
+
+Product platform (requires free account):  
+https://my.learningspace.app/
+
+---
+
+## Portfolio
+
+🌐 https://zhm-about-me.netlify.app/
+
+Selected projects, live demos, technical details and additional information about my experience.
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MishanyaZh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+---
+
+## Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/m-zholondkovskyi
+
+📧 Email  
+zholondkovskyimykhailo@gmail.com
