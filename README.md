@@ -58,4 +58,4 @@ Frontend Developer with 4 years of commercial experience and 5 years in software
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zholondkovskyi)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:zholondkovskyimykhailo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=EA4335)](https://mail.google.com/mail/?view=cm&to=zholondkovskyimykhailo@gmail.com)
